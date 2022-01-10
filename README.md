@@ -31,3 +31,7 @@ Studying at Chulalongkorn University, Thailand
     alt="adam-pw" /></p>
 
 <br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adam-pw&" alt="adam-pw" /></p>
+
+<br>
