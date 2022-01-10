@@ -27,8 +27,10 @@ Studying at Chulalongkorn University, Thailand
 - 📫 How to reach me: jetnipit54@gmail.com || 6331304421@student.chula.ac.th
 
 ## Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jKulrativid&show_icons=true&locale=en" alt="jKulrativid" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jKulrativid&show_icons=true&locale=en" alt="jKulrativid" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jKulrativid&show_icons=true&locale=en" alt="jKulrativid /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jKulrativid" alt="jKulrativid" /></p>
 <br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jKulrativid" alt="jKulrativid" /></a> </p>
