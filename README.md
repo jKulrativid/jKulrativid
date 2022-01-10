@@ -30,14 +30,17 @@ Studying at Chulalongkorn University, Thailand
     <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="golang" width="120" height="120" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="120" height="120" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="120" height="120" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="120" height="120" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="120" height="120" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="120" height="120" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="mysql" width="120" height="120" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgress" width="120" height="120" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="120" height="120" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="120" height="120" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="120" height="120" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="vim" width="120" height="120" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="120" height="120" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" alt="trello" width="120" height="120" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="120" height="120" />
 </p>
 <br>
 
