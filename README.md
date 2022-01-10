@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 Studying at Chulalongkorn University, Thailand
 
---> Resume <--
-
+---> [Resume](resume.pdf) <---
+    
 - 🔭 I’m currently working on web development (focus on backend)
 - 🌱 I’m currently learning Qiskit (Quantum Computing) and React
 - 👯 I’m looking to collaborate on ...
