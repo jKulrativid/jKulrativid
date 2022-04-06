@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 Studying at Chulalongkorn University, Thailand
 
 ---> [Resume](resume.pdf) <---
+
 ---> [Medium](https://medium.com/@jetnipit54) <---
     
 - 🔭 I’m currently working on web development (focus on backend)
