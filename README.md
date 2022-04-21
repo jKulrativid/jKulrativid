@@ -24,7 +24,7 @@ Studying at Chulalongkorn University, Thailand
 ---> [Medium](https://medium.com/@jetnipit54) <---
     
 - 🔭 I’m currently working on web development (focus on backend)
-- 🌱 I’m currently learning Qiskit (Quantum Computing) && React
+- 🌱 I’m currently learning Qiskit (Quantum Computing && Communication)
 - 📫 How to reach me: jetnipit54@gmail.com || 6331304421@student.chula.ac.th
 
 ## Tech Stacks
