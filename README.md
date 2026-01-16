@@ -23,8 +23,4 @@ Studying at Chulalongkorn University, Thailand
 
 ---> [Medium](https://medium.com/@jetnipit54) <---
 
-- 📫 How to reach me: jetnipit54@gmail.com || 6331304421@student.chula.ac.th
-
-## Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jKulrativid&show_icons=true&locale=en" alt="jKulrativid" /></p>
-<br>
+- 📫 How to reach me: jetnipit.kul@gmail.com
