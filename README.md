@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - Software: [e.g. Go, Python, React, Docker]
 - Hardware: [e.g. Verilog, SystemVerilog, VHDL]
 
-📄 View [Resume](resume.pdf)  |  ✍️ Read [my Articles](https://medium.com/@jetnipit54)
+📄 View [Resume](resume.pdf)
+
+✍️ Read [my Articles](https://medium.com/@jetnipit54)
 
 📫 Contact: jetnipit.kul@gmail.com
