@@ -17,10 +17,14 @@ Here are some ideas to get you started:
 
 👋 Hi, I am Jetnipit Kulrativid
 
-Studying at Chulalongkorn University, Thailand
+🚀 Currently: Building the core lending engine for a composable SaaS platform at Blockfint.
 
----> [Resume](resume.pdf) <---
+🔬 Research: Independent FPGA Researcher at the Faculty of Engineering, Chulalongkorn University.
 
----> [Medium](https://medium.com/@jetnipit54) <---
+🛠 Tech Stack
+- Software: [e.g. Go, Python, React, Docker]
+- Hardware: [e.g. Verilog, SystemVerilog, VHDL]
 
-- 📫 How to reach me: jetnipit.kul@gmail.com
+📄 View [Resume](resume.pdf)  |  ✍️ Read [my Articles](https://medium.com/@jetnipit54)
+
+📫 Contact: jetnipit.kul@gmail.com
