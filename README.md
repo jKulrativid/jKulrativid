@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 🔬 Research: Independent FPGA Researcher at the Faculty of Engineering, Chulalongkorn University.
 
-🛠 Tech Stack
-- Software: [e.g. Go, Python, React, Docker]
-- Hardware: [e.g. Verilog, SystemVerilog, VHDL]
-
 📄 View [Resume](resume.pdf)
 
 ✍️ Read [my Articles](https://medium.com/@jetnipit54)
